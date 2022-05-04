@@ -2,6 +2,10 @@
 
 ## This modules provide easy method for localStorage web api's to set, get, remove and clear.
 
+```
+npm install @coderrahul/easystore
+```
+
 ### Set Data in localStorage
 
 ```
