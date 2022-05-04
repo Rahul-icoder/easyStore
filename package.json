@@ -1,0 +1,24 @@
+{
+  "name": "@coderrahul/easystore",
+  "version": "1.0.4",
+  "description": "updating the readme",
+  "main": "localStorage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-icoder/easystore.git"
+  },
+  "keywords": [
+    "localstorage",
+    "storage",
+    "easystore"
+  ],
+  "author": "rahul kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-icoder/easystore/issues"
+  },
+  "homepage": "https://github.com/Rahul-icoder/easystore#readme"
+}
